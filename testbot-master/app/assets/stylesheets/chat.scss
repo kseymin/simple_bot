@@ -1,0 +1,62 @@
+// Place all the styles related to the chat controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+.balloon{
+  display: inline-block;
+  position: relative;
+  background: #ccc;
+  height: auto;
+  width: auto;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  padding:5px;
+  margin: 0 auto 10px;
+}
+.view{
+  
+  background: image-url('iphone_6') no-repeat center center;
+  background-size: 75%;
+}
+.view_phone{
+  // background-size: 75%;
+  height:550px;
+  // height:495px;
+  width:310px;
+  margin-top: 205px;
+  margin-right: 30px;
+  margin-bottom: 45px;
+  // margin-bottom: 45px;
+  margin-left: 30px;
+}
+
+
+
+
+// .iphone{
+//   // background: image-url('iphone_s') no-repeat center center;
+//   // background-size:75%;
+  
+// }
+
+// .main{
+//   // background: image-url('iphone_s') no-repeat center center;
+//   // background-size:75%;
+  
+//     // padding-top: 45px;
+//     // padding-right: 30px;
+//     // padding-bottom: 45px;
+//     // padding-left: 30px;
+
+// }
+
+// .chat{
+//   background: image-url('iphone_s') no-repeat center center;
+//   background-size:25%;
+//   margin-top: 45px;
+//     margin-right: 30px;
+//     margin-bottom: 45px;
+//     margin-left: 30px;
+  
+// }
